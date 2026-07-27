@@ -1,39 +1,31 @@
-# Hello there, I'm Juan Daniel 👋
+# Hello, I'm Juan Daniel
 
-🎓 I'm a 4th cycle student of the **Software Design and Development** program at the **Tecsup Higher Institute**.
-💻 I'm passionate about improving my skills in **Frontend Development**, while also expanding my knowledge and experience in **Backend Technologies** to become a **Full-Stack developer**.
+I'm a Software Developer passionate about building modern, scalable, and user-focused web applications. My primary focus is Frontend Development, while continuously strengthening my Backend skills to grow as a Full-Stack Developer.
 
-## 🚀 Technologies I work with:
+## Technologies
 
 ### Frontend
-- HTML, CSS
-- Bootstrap
 - Tailwind CSS
+- JavaScript
+- React
+- Next.js
 
 ### Backend
 - PHP (Laravel)
+- TypeScript
+- NestJS
 - MySQL
+- PostgreSQL
 
-## 🌱 I’m currently learning:
-- JavaScript
-- Python
-
-## 📫 How to reach me:
+## Currently Working With
+- Next.js
+- NestJS
+- TypeScript
+- Prisma
+- MySQL
+- Git & GitHub
+  
+## How to reach me:
 - Email: juan.rodriguez.o@tecsup.edu.pe
 - LinkedIn: [My LinkedIn](https://www.linkedin.com/in/juan-daniel-rodriguez-ordonez-a698582b9/)
 - GitHub: [@ItzDaniell](https://github.com/ItzDaniell)
-
-Thanks for visiting my profile! 😊 Let's build great things together.
-<!--
-**ItzDaniell/ItzDaniell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
