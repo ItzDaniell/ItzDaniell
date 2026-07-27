@@ -21,8 +21,8 @@ I'm a Software Developer passionate about building modern, scalable, and user-fo
 - Next.js
 - NestJS
 - TypeScript
-- Prisma
-- MySQL
+- TypeORM
+- PostgreSQL
 - Git & GitHub
   
 ## How to reach me:
